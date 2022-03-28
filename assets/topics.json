@@ -1,0 +1,25 @@
+{
+    "items": [
+      {
+        "name": "/robot_0/cmd_vel",
+        "msg": "TwistMsg",
+        "description": "Description 1"
+      },
+      {
+        "name": "/robot_1/cmd_vel",
+        "msg": "FloatMsg",
+        "description": "Description 2"
+      },
+      {
+        "name": "/robot_2/cmd_vel",
+        "msg": "Bool",
+        "description": "Description 3"
+      },
+
+      {
+        "name": "Select Topic",
+        "msg": "Select Msg",
+        "description": "Description 2"
+      }
+    ]
+  }
